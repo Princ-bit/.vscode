@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("Tropical Paradise Bloom _ Flower Background Wallpaper Desktop Background (1).jpeg"); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center; 
+    font-family: Arial, sans-serif;
+     height: 100vh;  
+}
+
+form {
+  display: flex;
+  gap: 15px; 
+  align-items: center;
+  flex-wrap: wrap; 
+  flex-direction: column;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  padding: 5px;
+  border-radius: 4px;
+  border: 1px solid #aaa;
+}
+
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  border: none;
+  padding: 6px 12px;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.form-container {
+  width: 300px;      
+  margin: 20px auto; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+background-color:bisque;
+}
+.Heading{
+    text-align: center;
+    text-decoration: aqua;
+    text-decoration: solidqqq2;
+}
