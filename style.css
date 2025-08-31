@@ -3,11 +3,12 @@ body {
     padding: 0;
     background-image: url("Tropical Paradise Bloom _ Flower Background Wallpaper Desktop Background (1).jpeg"); 
     background-repeat: no-repeat;
-    background-size: cover; 
-    background-position: center; 
+    background-size: cover;
+    background-position: center;
     font-family: Arial, sans-serif;
-     height: 100vh;  
-}
+
+    min-height: 100vh;  
+
 
 form {
   display: flex;
